@@ -1,0 +1,204 @@
+/* Global configurations */
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Font configurations */
+
+@font-face {
+    font-family: 'MontSerratRegular';
+    src: url(../n-fonts/Montserrat-Regular.ttf);
+}
+  
+/* Top to top middle configs */
+
+#top-menu {
+    width: 100%;
+    height: 50px;
+    background-color: #4c97d8;
+    /* border: 1px solid red; */
+}
+
+#logo {
+    float: left;
+    width: 180px;
+    height: 50px;
+    margin-left: 25px;
+    margin-top: 2px;
+}
+
+#menu {
+    float: left;
+    width: 600px;
+    height: 50px;
+    /* border: 1px solid red; */
+    text-align: center;
+    margin-left: 1000px;
+    color: white;
+}
+
+#menu li {
+    display: block;
+    list-style-type: none;
+    float: left;
+    
+}
+
+#menu li a:visited, a:link {
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#menu li a:hover {
+    background-color: white;
+    color: #4c97d8;
+}
+
+
+#middle-image {
+    width: 100%;
+    height: 552px;
+    background-image: url(../imgs/n-home_image.jpg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* border: 1px solid red; */
+}
+
+/* Main-index configs */
+
+#main-index {
+    background-color: beige;
+    width: 100%;
+    height: 600px;
+    margin-top: -5px;
+    /* border: 1px solid red; */
+}
+
+.text-in-text-box-center {
+    color: #4c97d8;
+    margin-top: 100px;
+    padding: 5px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'MontSerratRegular', sans-serif;
+}
+
+.text-in-text-box-normal {
+    color: #4c97d8;
+    padding: 5px;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'MontSerratRegular', sans-serif;
+}
+
+.text-in-text-box-normal h1 {
+    text-align: center;
+}
+
+.container {
+    /* border: 1px solid red;  */
+    width: 1880px;
+    height: 581px;
+    float: left;
+}
+
+.container-left {
+    /* border: 1px solid red;  */
+    width: 940px;
+    height: 581px;
+    float: left;
+}
+
+.container-right {
+    /* border: 1px solid red;  */
+    width: 940px;
+    height: 581px;
+    float: right;
+}
+
+.logo-in-container {
+    width: 180px;
+    height: 50px;
+}
+
+.feat {
+    background-color: #4c97d8;
+    color: white
+}
+
+.clear {
+    clear: both;
+}
+
+/* Inn page right boxes configs */
+
+#main-inn-box-container {
+    /* border: 1px solid red; */
+    width: 938px;
+    height: 526 px;
+}
+
+.inn-feat {
+    /* border: 1px solid yellow; */
+    width: 938px;
+    height: 260px;
+}
+
+.inn-feat-frame {
+    border: 1px solid red;
+    width: 418px;
+    height: 260px;
+    margin-left: 5px;
+}
+
+.inn-feat-frame-text {
+    color: white;
+    font-family: 'MontSerratRegular', sans-serif;
+    width: 512px;
+    height: 259px;
+    border: 1px solid green;
+}
+
+
+/* Footer configs */
+
+#footer {
+    width: 100%;
+    height: 50px;
+    background-color: #4c97d8;
+}
+
+.footer-text {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    display: block;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
