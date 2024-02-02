@@ -28,9 +28,15 @@ Here I was able to work on some new features such as link formatting, use of "fl
 This simple project features the homepage of a local news website. The links now, in addition to a 
 slight animation when hovering the mouse, also have a visible mark to indicate to the user the page 
 he is on (in this case, as I only made the home page, there is only this evidence for the single page 
-itself , but it would be perfectly expandable if I moved forward with the project).
-
+itself , but it would be perfectly expandable if I moved forward with the project). 
 Some more intermediate resources used were the use of false columns with images, again the use of 
 float, in addition to better blending the images used with the background of the site.
+
+## fifth_project_bootstrap4
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
+This was a project that simulates a personal finance app website. It was my first encounter with the Bootstrap
+framework.
 
 
